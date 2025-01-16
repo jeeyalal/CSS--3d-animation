@@ -9,15 +9,6 @@ This project demonstrates the use of CSS to create stunning 3D animations. The r
 - **Keyframe Animations**: Dynamic animations defined with `@keyframes`.
 - **Interactive Elements**: Hover and click effects that enhance user engagement.
 
-## Project Structure
-```
-CSS--3d-animation/
-├── index.html        # Main HTML file
-├── styles.css        # CSS file containing animations and styles
-├── assets/           # Directory for images or other resources
-└── README.md         # Project documentation (this file)
-```
-
 ## Getting Started
 
 ### Prerequisites
